@@ -16,7 +16,7 @@
 
 **3.** Clone the github repository
 
-    `git clone https://github.com/CodeSmith00/pluto-script.git`
+    `git clone https://github.com/CodeSmith00/pluto.git`
 
 **4.** Build the program with the makefile
 
